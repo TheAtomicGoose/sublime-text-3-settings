@@ -1,0 +1,30 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Base16 Color Schemes",
+		"Emmet",
+		"FileBrowser",
+		"Git",
+		"GitGutter",
+		"HTMLBeautify",
+		"JavaScript Completions",
+		"JavaScript Snippets",
+		"JavaScriptNext - ES6 Syntax",
+		"JSHint",
+		"LaTeX-cwl",
+		"LaTeXing",
+		"MIPS Syntax",
+		"NASM x86 Assembly",
+		"Package Control",
+		"Solarized Toggle",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"Theme - Centurion",
+		"Vintageous"
+	]
+}
